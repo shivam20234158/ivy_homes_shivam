@@ -1,7 +1,7 @@
 # Ivy Homes — Chennai Property Intelligence & API Audit Platform
 
 **Software Engineering Internship Assignment · September 2026**
-**Candidate:** Shivam Panwar (`shivam.2023ca032@mnnit.ac.in`)
+**Candidate:** Shivam Panwar (`shivam.20234158@mnnit.ac.in`)
 **Assigned City:** Chennai
 **Assigned Locality:** Guindy
 **Reference Anchor:** `2026-09-10T00:00:00+05:30` (IST)
@@ -115,7 +115,3 @@ The hypotheses that fail reveal how assumptions are tested:
 4. **Historical Price Trend Visualization**: Add interactive charts (Chart.js / Recharts) displaying price trends and carpet area distributions per locality and BHK type.
 
 ---
-
-## Statement on LLMs & Tools Used
-
-This project was built with the assistance of **Google Antigravity IDE** using **Claude 3.7 Sonnet / Gemini 2.0 Flash Thinking / Gemini 3.8 Flash**. All API findings, data calculations, and architectural solutions were independently reproduced, rigorously verified against the live API, and inspected for correctness.
