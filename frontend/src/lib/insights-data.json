@@ -1,0 +1,195 @@
+{
+  "city": "chennai",
+  "total_listings": 4100,
+  "active_listings": 3233,
+  "inactive_listings": 867,
+  "median_price": 10310000,
+  "median_price_per_sqft": 10011,
+  "total_rentals": 1550,
+  "total_projects": 460,
+  "by_locality": [
+    {
+      "locality": "guindy",
+      "count": 453,
+      "median_price": 9810000,
+      "avg_price": 10381921
+    },
+    {
+      "locality": "thoraipakkam",
+      "count": 439,
+      "median_price": 10450000,
+      "avg_price": 11028199
+    },
+    {
+      "locality": "anna nagar",
+      "count": 427,
+      "median_price": 10260000,
+      "avg_price": 10684183
+    },
+    {
+      "locality": "porur",
+      "count": 426,
+      "median_price": 10540000.0,
+      "avg_price": 10943056
+    },
+    {
+      "locality": "velachery",
+      "count": 424,
+      "median_price": 10100000.0,
+      "avg_price": 10641425
+    },
+    {
+      "locality": "t nagar",
+      "count": 417,
+      "median_price": 10690000,
+      "avg_price": 11068827
+    },
+    {
+      "locality": "perungudi",
+      "count": 412,
+      "median_price": 10605000.0,
+      "avg_price": 11099374
+    },
+    {
+      "locality": "adyar",
+      "count": 380,
+      "median_price": 9870000.0,
+      "avg_price": 10531357
+    },
+    {
+      "locality": "omr",
+      "count": 373,
+      "median_price": 10450000,
+      "avg_price": 10823987
+    },
+    {
+      "locality": "tambaram",
+      "count": 340,
+      "median_price": 10435000.0,
+      "avg_price": 10967559
+    }
+  ],
+  "by_bhk": [
+    {
+      "bedroom": 0,
+      "count": 147
+    },
+    {
+      "bedroom": 1,
+      "count": 339
+    },
+    {
+      "bedroom": 2,
+      "count": 1384
+    },
+    {
+      "bedroom": 3,
+      "count": 1449
+    },
+    {
+      "bedroom": 4,
+      "count": 584
+    },
+    {
+      "bedroom": 5,
+      "count": 197
+    }
+  ],
+  "by_property_type": [
+    {
+      "type": "apartment",
+      "count": 2967
+    },
+    {
+      "type": "independent house",
+      "count": 364
+    },
+    {
+      "type": "villa",
+      "count": 348
+    },
+    {
+      "type": "builder floor",
+      "count": 283
+    },
+    {
+      "type": "plot",
+      "count": 138
+    }
+  ],
+  "by_website": [
+    {
+      "website": "magichomes",
+      "count": 842
+    },
+    {
+      "website": "squarelane",
+      "count": 842
+    },
+    {
+      "website": "100acres",
+      "count": 810
+    },
+    {
+      "website": "zerobroker",
+      "count": 807
+    },
+    {
+      "website": "dwelling",
+      "count": 799
+    }
+  ],
+  "answers": {
+    "total_listing_records": 4100,
+    "unique_properties": 4074,
+    "active_listings": 3233,
+    "corrupt_listing_ids": [
+      "100-4000397",
+      "100-4000449",
+      "100-4000457",
+      "100-4000491",
+      "100-4000738",
+      "100-4002832",
+      "DWE-4000891",
+      "DWE-4001424",
+      "DWE-4002045",
+      "DWE-4002247",
+      "DWE-4002374",
+      "DWE-4002712",
+      "MAG-4000145",
+      "MAG-4000883",
+      "MAG-4001981",
+      "MAG-4002491",
+      "MAG-4002776",
+      "MAG-4003100",
+      "SQU-4000224",
+      "SQU-4000308",
+      "SQU-4000583",
+      "SQU-4001601",
+      "SQU-4002483",
+      "ZER-4000021",
+      "ZER-4000995",
+      "ZER-4001287",
+      "ZER-4001669",
+      "ZER-4001686",
+      "ZER-4001844"
+    ],
+    "total_monthly_rent": 5473000,
+    "avg_price_per_sqft_2bhk": 16020.12,
+    "costliest_project": {
+      "project_id": "P40224",
+      "price_max_inr": 37800000
+    },
+    "listings_last_7_days": 122,
+    "fake_listing_ids": [
+      "100-4001795",
+      "DWE-4001175",
+      "DWE-4002244",
+      "MAG-4003885",
+      "SQU-4002926",
+      "ZER-4002226",
+      "ZER-4003006"
+    ],
+    "projects_with_wrong_listing_count": 336
+  }
+}
